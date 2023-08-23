@@ -2,7 +2,7 @@
   "name": "passionexus_frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://5r1ram.github.io/passionexus_frontend/login",
+  "homepage": "http://5r1ram.github.io/passionexus_frontend",
   "dependencies": {
     "@sanity/client": "^6.4.0",
     "@sanity/image-url": "^1.0.2",
