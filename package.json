@@ -1,0 +1,23 @@
+{
+  "name": "passionexus",
+  "version": "1.0.0",
+  "description": "imagestack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://5r1ram.github.io/passionexus"
+  },
+  "keywords": [
+    "create-pin",
+    "upload",
+    "save",
+    "download",
+    "comment",
+    "delete"
+  ],
+  "author": "5r1ram",
+  "license": "ISC"
+}
