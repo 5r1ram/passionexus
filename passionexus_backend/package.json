@@ -5,11 +5,11 @@
   "main": "package.json",
   "license": "UNLICENSED",
   "scripts": {
-    "dev": "sanity dev",
-    "start": "sanity start",
-    "build": "sanity build",
-    "deploy": "sanity deploy",
-    "deploy-graphql": "sanity graphql deploy"
+    "dev": "npx sanity dev",
+    "start": "npx sanity start",
+    "build": "npx sanity build",
+    "deploy": "npx sanity deploy",
+    "deploy-graphql": "npx sanity graphql deploy"
   },
   "keywords": [
     "sanity"
