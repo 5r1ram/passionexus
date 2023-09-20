@@ -2,6 +2,8 @@
 
 PassioNexus is a cutting-edge social media web application designed to redefine your digital experience. With a sleek dynamic masonry layout, seamless Google Auth integration, and intuitive features, PassioNexus brings your content to life.
 
+<img width="1440" alt="Screenshot 2023-09-19 at 15 12 20" src="https://github.com/5r1ram/passionexus/assets/117920067/e7d1a03e-eee1-465b-8b3d-48d1b5476882">
+
 ## Features
 
 - **Dynamic Masonry Layout:** Experience a visually captivating layout that adapts to your content.
